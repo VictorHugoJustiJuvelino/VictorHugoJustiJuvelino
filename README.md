@@ -8,6 +8,7 @@ Olá 👋, Sou o Victor Hugo
   <div>
   <a href="https://github.com/VictorHugoJustiJuvelino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHugoJustiJuvelino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoJustiJuvelino&layout=compact&langs_count=16&theme=merko"/>
   </a>
 </div>
 
@@ -27,10 +28,11 @@ Olá 👋, Sou o Victor Hugo
 <div>
   <a href="https://www.instagram.com/vict0r_justi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-1a40363b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
-##
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/550e6623-b2b0-46b9-8e9b-209cff01b38c" />
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake-dark.svg">
